@@ -1,0 +1,6 @@
+id,Name,Email,Age,Country,Join_Date
+1,Alice,alice@example.com,28,USA,2023-01-15
+2,Bob,bob@example.com,34,Canada,2022-05-30
+3,Charlie,charlie@example.com,22,UK,2021-11-22
+4,David,david@example.com,45,Australia,2020-08-10
+5,Eve,eve@example.com,30,Germany,2019-03-28
