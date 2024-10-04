@@ -6,15 +6,11 @@ El propósito de esta prueba es evaluar tus habilidades en desarrollo Backend y 
 
 **Instrucciones**
 
-- **Tienes 48 horas para completar la prueba.** NO subas ningún código después de entregarlo en este sistema.
-- **Tu solución DEBE incluir pruebas automatizadas** tanto para el frontend como para el backend. Tener una buena cobertura y probar todas las funciones es parte de la prueba.
-- Debes enviar tu solución como un **repositorio PRIVADO en GitHub** e invitar a **projects@shawandpartners.com** como colaborador. También puedes intentarlo con el nombre de usuario **sp-tests**.
+- **Tu solución DEBE incluir pruebas automatizadas** tanto para el frontend como para el backend.
 - **NO crees 2 repositorios**, asegúrate de incluir todo el código en el mismo repositorio de GitHub. Crea una carpeta "frontend" y "backend" dentro de tu repositorio y codifica directamente dentro de ellas.
 - El Frontend y el Backend deben funcionar simplemente ejecutando **"npm install" seguido de "npm run dev"** (para ejecutar la aplicación) o **"npm run test"** (para ejecutar todas las pruebas).
 - **NO agregues instrucciones adicionales o comandos de Docker en el readme**, si algo más necesita ser ejecutado antes de iniciar la aplicación, asegúrate de incluirlo en tu script de desarrollo.
 - **Los archivos JavaScript** solo están permitidos en archivos de configuración de lib, todo tu código DEBE estar en **TypeScript** y completamente **tipado**.
-
-**Cuando termines, despliega tu código en un servicio de hosting** como [Render](https://render.com/) o [Vercel](https://vercel.com/). Se te pedirá que proporciones el enlace de tu repositorio y el (los) enlace(s) de tu aplicación desplegada al final, asegúrate de proporcionar el enlace raíz sin ningún camino.
 
 ---
 
@@ -25,7 +21,6 @@ El propósito de esta prueba es evaluar tus habilidades en desarrollo Backend y 
 - Una **barra de búsqueda** que permita a los usuarios buscar datos dentro del archivo CSV cargado.
 - La barra de búsqueda debe **actualizar las tarjetas mostradas** para mostrar solo los resultados coincidentes.
 - Los datos CSV cargados deben mostrarse como **tarjetas en el sitio web**, con cada tarjeta mostrando todos los datos de una sola fila del archivo CSV.
-- Un **diseño responsivo** que funcione bien tanto en dispositivos de escritorio como móviles.
 - **Manejo de errores claro y amigable para el usuario**.
 
 **Características del Backend**
