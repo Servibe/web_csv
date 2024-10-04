@@ -1,6 +1,6 @@
 # Challenge
 
-**Prueba para Casa de Desarrollo Full-Stack**
+**Prueba Full-Stack**
 
 El propósito de esta prueba es evaluar tus habilidades en desarrollo Backend y Frontend. Debes construir una aplicación web que permita a los usuarios cargar un archivo CSV con datos preformateados y mostrar esos datos como tarjetas en el sitio web, pudiendo filtrar los datos.
 
