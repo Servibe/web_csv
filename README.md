@@ -6,7 +6,6 @@ El propósito de esta prueba es evaluar tus habilidades en desarrollo Backend y 
 
 **Instrucciones**
 
-- **Tu solución DEBE incluir pruebas automatizadas** tanto para el frontend como para el backend.
 - **NO crees 2 repositorios**, asegúrate de incluir todo el código en el mismo repositorio de GitHub. Crea una carpeta "frontend" y "backend" dentro de tu repositorio y codifica directamente dentro de ellas.
 - El Frontend y el Backend deben funcionar simplemente ejecutando **"npm install" seguido de "npm run dev"** (para ejecutar la aplicación) o **"npm run test"** (para ejecutar todas las pruebas).
 - **NO agregues instrucciones adicionales o comandos de Docker en el readme**, si algo más necesita ser ejecutado antes de iniciar la aplicación, asegúrate de incluirlo en tu script de desarrollo.
